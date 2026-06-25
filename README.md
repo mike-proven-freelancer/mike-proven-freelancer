@@ -1,20 +1,10 @@
-# Hi, I'm Mike Proven
+# I'm Mike Proven
 
-**Transitioning from teaching to freelancing—exploring data, virtual assistance, and learning as I go.**
+**I am available for freelance work on [Upwork](https://www.upwork.com/freelancers/mikeproven).**
 
-I'm based in Vietnam and open to **part-time projects**. I'm here to learn from experience and help with data and admin work that makes your life easier.
+I'm a U.S. born American citizen with a Computer Science degree and staying in Vietnam while working remotely.
 
----
-
-### What I bring to the table
-
-**Data & analysis**  
-Data analysis · Python · SQL · Statistical analysis · Data cleaning · Exploratory data analysis · Microsoft Excel · Report writing · RStudio  
-
-**Support & operations**  
-Data entry · Virtual assistance · Clear communication  
-
-I’m building my portfolio and sharpening these skills with real projects.
+I can assist you with admin work, data analysis, app development, and more.
 
 ---
 
@@ -24,4 +14,4 @@ I’m building my portfolio and sharpening these skills with real projects.
 
 ---
 
-*Living and working in Vietnam · Open to part-time work and learning by doing.*
+*Living and working in Vietnam · Open to projects.*
